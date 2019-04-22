@@ -1,0 +1,19 @@
+{
+  "Tabs": [
+    {
+        "type": "picView",
+        "name": "self",
+        "location": "PATH"
+    },
+    {
+      "type": "webView",
+        "name": "Wunderlist",
+        "url": "wunderlist.de"
+    },
+    {
+        "type": "webView",
+        "name": "Google Kalendar",
+        "url": "google.com"
+    }
+  ]
+}
